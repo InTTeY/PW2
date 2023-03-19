@@ -1,0 +1,15 @@
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\bin\Debug\net6.0\PW2_1.exe
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\bin\Debug\net6.0\PW2_1.deps.json
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\bin\Debug\net6.0\PW2_1.runtimeconfig.json
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\bin\Debug\net6.0\PW2_1.dll
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\bin\Debug\net6.0\PW2_1.pdb
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.csproj.AssemblyReference.cache
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.AssemblyInfoInputs.cache
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.AssemblyInfo.cs
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.csproj.CoreCompileInputs.cache
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.dll
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\refint\PW2_1.dll
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.pdb
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\PW2_1.genruntimeconfig.cache
+C:\Users\deras\Desktop\учёба\уп 03\практики\практики\PW2\PW2_1\obj\Debug\net6.0\ref\PW2_1.dll
